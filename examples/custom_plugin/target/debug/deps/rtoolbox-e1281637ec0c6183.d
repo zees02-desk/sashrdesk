@@ -1,0 +1,10 @@
+/Users/abdulazees/Documents/sash/RemoteDesktop/sashrdesk/examples/custom_plugin/target/debug/deps/librtoolbox-e1281637ec0c6183.rmeta: /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/lib.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/atty.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/fix_line_issues.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/print_tty.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/safe_string.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/safe_vec.rs
+
+/Users/abdulazees/Documents/sash/RemoteDesktop/sashrdesk/examples/custom_plugin/target/debug/deps/rtoolbox-e1281637ec0c6183.d: /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/lib.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/atty.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/fix_line_issues.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/print_tty.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/safe_string.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/safe_vec.rs
+
+/Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/lib.rs:
+/Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/atty.rs:
+/Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/fix_line_issues.rs:
+/Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/print_tty.rs:
+/Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/safe_string.rs:
+/Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/safe_vec.rs:

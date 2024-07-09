@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=RustDeskURL Scheme Handler
+NoDisplay=true
+MimeType=x-scheme-handler/rustdesk;
+TryExec=sashrdesk
+Exec=sashrdesk %u
+Icon=sashrdesk
+Terminal=false
+Type=Application
+StartupNotify=false

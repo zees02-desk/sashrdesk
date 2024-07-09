@@ -1,0 +1,12 @@
+/Users/abdulazees/Documents/sash/RemoteDesktop/sashrdesk/examples/custom_plugin/target/debug/deps/libtray_icon-8ce341c3bef55c06.rmeta: /Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/lib.rs /Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/counter.rs /Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/error.rs /Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/icon.rs /Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/platform_impl/mod.rs /Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/platform_impl/macos/mod.rs /Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/platform_impl/macos/icon.rs /Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/tray_icon_id.rs
+
+/Users/abdulazees/Documents/sash/RemoteDesktop/sashrdesk/examples/custom_plugin/target/debug/deps/tray_icon-8ce341c3bef55c06.d: /Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/lib.rs /Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/counter.rs /Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/error.rs /Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/icon.rs /Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/platform_impl/mod.rs /Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/platform_impl/macos/mod.rs /Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/platform_impl/macos/icon.rs /Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/tray_icon_id.rs
+
+/Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/lib.rs:
+/Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/counter.rs:
+/Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/error.rs:
+/Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/icon.rs:
+/Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/platform_impl/mod.rs:
+/Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/platform_impl/macos/mod.rs:
+/Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/platform_impl/macos/icon.rs:
+/Users/abdulazees/.cargo/git/checkouts/tray-icon-92e618386d5f9af6/d407869/src/tray_icon_id.rs:

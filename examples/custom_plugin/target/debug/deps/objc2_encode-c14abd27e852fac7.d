@@ -1,0 +1,10 @@
+/Users/abdulazees/Documents/sash/RemoteDesktop/sashrdesk/examples/custom_plugin/target/debug/deps/libobjc2_encode-c14abd27e852fac7.rmeta: /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/lib.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/encoding.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/encoding_box.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/helper.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/parse.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/static_str.rs
+
+/Users/abdulazees/Documents/sash/RemoteDesktop/sashrdesk/examples/custom_plugin/target/debug/deps/objc2_encode-c14abd27e852fac7.d: /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/lib.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/encoding.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/encoding_box.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/helper.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/parse.rs /Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/static_str.rs
+
+/Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/lib.rs:
+/Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/encoding.rs:
+/Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/encoding_box.rs:
+/Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/helper.rs:
+/Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/parse.rs:
+/Users/abdulazees/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/static_str.rs:

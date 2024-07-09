@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=SASHRDesk
+GenericName=Remote Desktop
+Comment=Remote Desktop
+Exec=sashrdesk %u
+Icon=sashrdesk
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Network;RemoteAccess;GTK;
+Keywords=internet;
+Actions=new-window;
+
+X-Desktop-File-Install-Version=0.23
+
+[Desktop Action new-window]
+Name=Open a New Window
+Exec=sashrdesk %u
