@@ -76,12 +76,12 @@ jobs:
         with:
           version: ${{ env.LLVM_VERSION }}
 
-      # - name: Install flutter
-        # uses: subosito/flutter-action@v2.12.0 #https://github.com/subosito/flutter-action/issues/277
-        # with:
-        #   channel: "stable"
-        #   flutter-version: $ {{ env.FLUTTER_VERSION }}
-        #   cache: true
+      - name: Install flutter
+        uses: subosito/flutter-action@v2.12.0 #https://github.com/subosito/flutter-action/issues/277
+        with:
+          channel: "stable"
+          flutter-version: $ {{ env.FLUTTER_VERSION }}
+          cache: true
 
       - name: Install Rust toolchain
         uses: dtolnay/rust-toolchain@v1
@@ -199,7 +199,6 @@ jobs:
           files: |
             ./SignOutput/sashrdesk-*.msi
             ./SignOutput/sashrdesk-*.exe
-
 
   publish_unsigned:
     needs:
