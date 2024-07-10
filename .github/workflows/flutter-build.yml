@@ -200,6 +200,7 @@ jobs:
             ./SignOutput/sashrdesk-*.msi
             ./SignOutput/sashrdesk-*.exe
 
+
   publish_unsigned:
     needs:
       # - build-for-macOS
