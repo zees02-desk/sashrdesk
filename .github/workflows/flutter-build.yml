@@ -119,7 +119,7 @@ jobs:
           python3 .\build.py --portable --hwcodec --flutter --vram --skip-portable-pack
           Remove-Item -Path usbmmidd_v2\Win32 -Recurse
           Remove-Item -Path "usbmmidd_v2\deviceinstaller64.exe", "usbmmidd_v2\deviceinstaller.exe", "usbmmidd_v2\usbmmidd.bat"
-          mv ./flutter/build/windows/x64/runner/Release ./sashrdesk
+          # mv ./flutter/build/windows/x64/runner/Release ./sashrdesk
           mv -Force .\usbmmidd_v2 ./sashrdesk
 
       - name: find Runner.res
