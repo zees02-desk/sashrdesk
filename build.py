@@ -441,7 +441,7 @@ def build_flutter_windows(version, features, skip_portable_pack):
     os.chdir('libs/portable')
     system2('pip3 install -r requirements.txt')
     system2(
-        f'python3 ./generate.py -f ../../{flutter_build_dir_2} -o . -e ../../{flutter_build_dir_2}/sashrdesk.exe')
+        f'python3 ./generate.py -f ../../res -o . -e ../../{flutter_build_dir_2}/sashrdesk.exe')
     os.chdir('../..')
     if os.path.exists('./sashrdesk_portable.exe'):
         os.replace('./target/release/sashrdesk-portable-packer.exe',
